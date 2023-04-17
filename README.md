@@ -15,3 +15,7 @@ Predicting the purchase offer to which a possible higher level of response or us
 
 <h4>Installations:</h4>
 you have just to run the file called 'Starbucks_Capstone_notebook' in jupyter notbook 
+
+<h4> Linkes </h4>
+blog for this project on medium: <br>
+https://medium.com/@basim.h.said/starbucks-offers-analysis-aa19eabd1bed
